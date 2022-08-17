@@ -17,4 +17,4 @@
 
 
 ## Model Architecture
-![Model Architecture](images/model_arch.png)
+![Model Architecture](images/model_architecture.png)
