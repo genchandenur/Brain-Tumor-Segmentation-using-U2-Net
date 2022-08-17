@@ -12,7 +12,7 @@
 - [References](#References)
 
 ### Dataset
-
+For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/display/Public/LGG-1p19qDeletion).
 
 ### Pre-processing
 
