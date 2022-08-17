@@ -12,7 +12,7 @@
 - [References](#References)
 
 ### Dataset
-This dataset contains T2-weighted and post-contrast T1-weighted images for each of 159 subjects.
+This dataset contains T2-weighted and post-contrast T1-weighted images for each of the 159 subjects.
 
 For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/display/Public/LGG-1p19qDeletion).
 
