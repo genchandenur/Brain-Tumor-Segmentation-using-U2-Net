@@ -20,4 +20,4 @@
 ![Model Architecture](images/model_architecture.png)
 
 ## References 
-![Original Paper](https://arxiv.org/abs/2005.09007v3)
+[Original Paper](https://arxiv.org/abs/2005.09007v3)
