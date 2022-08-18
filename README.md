@@ -20,9 +20,8 @@ For a detailed information about the dataset please refer to this [site](https:/
 ### Pre-processing
 
 The basic data augmentation methods listed below were used:
-- [Horizontally Flip](https://pytorch.org/docs/stable/torchvision/transforms.html#torchvision.transforms.functional.hflip)
-- [Vertically Flip](https://pytorch.org/docs/stable/torchvision/transforms.html#torchvision.transforms.functional.vflip)
-- [Rotation](https://pytorch.org/docs/stable/torchvision/transforms.html#torchvision.transforms.functional.rotate) Between 75°-15°
+- [Horizontally Flip](https://docs.opencv.org/3.4/d2/de8/group__core__array.html#gaca7be533e3dac7feb70fc60635adf441)
+- [Vertically Flip](https://docs.opencv.org/3.4/d2/de8/group__core__array.html#gaca7be533e3dac7feb70fc60635adf441)
 
 ### Model Architecture
 
