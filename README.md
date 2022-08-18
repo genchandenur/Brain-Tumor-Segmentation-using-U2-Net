@@ -19,9 +19,9 @@ For a detailed information about the dataset please refer to this [site](https:/
 
 | Parameters  | T1-weighted | T2-weighted | Segmentation |
 | :---: | :---: | :---: | :---: | 
-| Mean  | 0.81519  | 23.1904  | 5.56554  |
-| StdDev  | 0.25155  | 85.62448  | 10.87704  |
-| Median  | 0.89553  | 1.73205 | 3.16228  |
+| Oligodendroglioma  | 0.81519  | 23.1904  | 5.56554  |
+| Oligoastrocytoma  | 0.25155  | 85.62448  | 10.87704  |
+| Astrocytoma  | 0.89553  | 1.73205 | 3.16228  |
 
 
 ### Pre-processing
