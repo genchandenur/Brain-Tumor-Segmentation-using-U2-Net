@@ -19,7 +19,9 @@ For a detailed information about the dataset please refer to this [site](https:/
 
 T1-weighted Image          |  T2-weighted Image        |  Mask Image
 :-------------------------:|:-------------------------:|:-------------------------:
-![](images/README/dataset_example.png)  |  ![](images/README/dataset_example_mask.png)
+Oligoastrocytoma          |![](images/README/dataset_example.png)  |  ![](images/README/dataset_example_mask.png)
+Oligodendroglioma         |
+Astrocytoma               |
 
 ### Pre-processing
 
