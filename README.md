@@ -17,7 +17,7 @@ This dataset contains T2-weighted and post-contrast T1-weighted images for each 
 
 For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/display/Public/LGG-1p19qDeletion).
 
-| Parameters  | T1-weighted | T2-weighted | Segmentation |
+| Tumor Types \ MRI Sequences  | T1-weighted | T2-weighted | Segmentation |
 | :---: | :---: | :---: | :---: | 
 | Oligodendroglioma  | 0.81519  | 23.1904  | 5.56554  |
 | Oligoastrocytoma  | 0.25155  | 85.62448  | 10.87704  |
