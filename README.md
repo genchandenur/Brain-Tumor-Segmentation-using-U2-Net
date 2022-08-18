@@ -22,9 +22,6 @@ For a detailed information about the dataset please refer to this [site](https:/
 | Mean  | 0.81519  | 23.1904  | 5.56554  | 5.44695  |
 | StdDev  | 0.25155  | 85.62448  | 10.87704  | 9.90171  |
 | Median  | 0.89553  | 1.73205 | 3.16228  | 3  |
-| 25quantile  | 0.82766  | 0.90596 | 2.23607  | 1.73205  |
-| 75quantile  | 0.94811  | 0.97373 | 5.47723  | 5.47723  |
-
 
 
 ### Pre-processing
