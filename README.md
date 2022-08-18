@@ -20,7 +20,7 @@ For a detailed information about the dataset please refer to this [site](https:/
 ![](images/Oligoastrocytoma-t1.png)  | ![](images/Oligoastrocytoma-t2.png)  | ![](images/Oligoastrocytoma-seg.png)
 
 
-
+<img src="images/Oligoastrocytoma-t1.png" width="100" height="100">
 
 
 
