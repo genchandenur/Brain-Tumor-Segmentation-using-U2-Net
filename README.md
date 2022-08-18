@@ -17,7 +17,7 @@ This dataset contains T2-weighted and post-contrast T1-weighted images for each 
 
 For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/display/Public/LGG-1p19qDeletion).
 
-Tumor Types\ MRI Sequences | T1-weighted Image          |  T2-weighted Image        |  Mask Image
+                           | T1-weighted Image          |  T2-weighted Image        |  Mask Image
 :-------------------------:|:-------------------------:|:-------------------------:
 Oligoastrocytoma           |![](images/README/dataset_example.png)  |  ![](images/README/dataset_example_mask.png)
 Oligodendroglioma          |
