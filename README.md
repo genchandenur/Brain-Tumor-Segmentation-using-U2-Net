@@ -17,13 +17,13 @@ This dataset contains T2-weighted and post-contrast T1-weighted images for each 
 
 For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/display/Public/LGG-1p19qDeletion).
 
-| Parameters  | Dice_ET | Dice_WT | Dice_TC | Sensitivity_ET | Sensitivity_WT | Sensitivity_TC | Specificity_ET | Specificity_WT | Specificity_TC | Hausdorff95_ET | Hausdorff95_WT | Hausdorff95_TC |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Mean  | 0.80661  | 0.89414  | 0.85721  | 0.81519  | 0.9251  | 0.84795  | 0.99971  | 0.99884  | 0.99953  | 23.1904  | 5.56554  | 5.44695  |
-| StdDev  | 0.23953  | 0.08177  | 0.12749  | 0.25155  | 0.07596  | 0.16678  | 0.00043  | 0.00116  | 0.0007  | 85.62448  | 10.87704  | 9.90171  |
-| Median  | 0.87871  | 0.91993  | 0.91058  | 0.89553  | 0.94956  | 0.90561  | 0.99985  | 0.99918  | 0.9998  | 1.73205 | 3.16228  | 3  |
-| 25quantile  | 0.80214  | 0.87042  | 0.82128  | 0.82766  | 0.90596 | 0.81328  | 0.99957  | 0.99858  | 0.9995  | 1  | 2.23607  | 1.73205  |
-| 75quantile  | 0.92648  | 0.94299  | 0.93417  | 0.94811  | 0.97373 | 0.95586  | 0.99996  | 0.99958  | 0.9999  | 3  | 5.47723  | 5.47723  |
+| Parameters  | Dice_WT | Dice_TC | Sensitivity_ET | Sensitivity_WT | Sensitivity_TC | Specificity_ET | Specificity_WT | Specificity_TC | Hausdorff95_ET | Hausdorff95_WT | Hausdorff95_TC |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
+| Mean  | 0.89414  | 0.85721  | 0.81519  | 0.9251  | 0.84795  | 0.99971  | 0.99884  | 0.99953  | 23.1904  | 5.56554  | 5.44695  |
+| StdDev  | 0.08177  | 0.12749  | 0.25155  | 0.07596  | 0.16678  | 0.00043  | 0.00116  | 0.0007  | 85.62448  | 10.87704  | 9.90171  |
+| Median  | 0.91993  | 0.91058  | 0.89553  | 0.94956  | 0.90561  | 0.99985  | 0.99918  | 0.9998  | 1.73205 | 3.16228  | 3  |
+| 25quantile  | 0.87042  | 0.82128  | 0.82766  | 0.90596 | 0.81328  | 0.99957  | 0.99858  | 0.9995  | 1  | 2.23607  | 1.73205  |
+| 75quantile  | 0.94299  | 0.93417  | 0.94811  | 0.97373 | 0.95586  | 0.99996  | 0.99958  | 0.9999  | 3  | 5.47723  | 5.47723  |
 
 
 
