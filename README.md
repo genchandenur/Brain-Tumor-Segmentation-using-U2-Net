@@ -20,13 +20,6 @@ For a detailed information about the dataset please refer to this [site](https:/
 ![](images/Oligoastrocytoma-t1.png)  | ![](images/Oligoastrocytoma-t2.png)  | ![](images/Oligoastrocytoma-seg.png)
 
 
-<div style="width: 60%; height: 60%">
-  
-  ![](.images/Oligoastrocytoma-t2.png)
-  
-</div>
-
-
 
 | Tumor Types \ MRI Sequences  | T1-weighted | T2-weighted | Segmentation |
 | :---: | :---: | :---: | :---: | 
