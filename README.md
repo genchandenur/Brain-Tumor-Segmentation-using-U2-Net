@@ -17,11 +17,11 @@ This dataset contains T2-weighted and post-contrast T1-weighted images for each 
 
 For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/display/Public/LGG-1p19qDeletion).
 
-| Parameters  | Specificity_TC | Hausdorff95_ET | Hausdorff95_WT | Hausdorff95_TC |
-| :---: | :---: | :---: | :---: | :---: | 
-| Mean  | 0.81519  | 23.1904  | 5.56554  | 5.44695  |
-| StdDev  | 0.25155  | 85.62448  | 10.87704  | 9.90171  |
-| Median  | 0.89553  | 1.73205 | 3.16228  | 3  |
+| Parameters  | T1-weighted | T2-weighted | Segmentation |
+| :---: | :---: | :---: | :---: | 
+| Mean  | 0.81519  | 23.1904  | 5.56554  |
+| StdDev  | 0.25155  | 85.62448  | 10.87704  |
+| Median  | 0.89553  | 1.73205 | 3.16228  |
 
 
 ### Pre-processing
