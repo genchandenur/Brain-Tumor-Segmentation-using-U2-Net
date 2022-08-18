@@ -27,7 +27,7 @@ For a detailed information about the dataset please refer to this [site](https:/
 | Tumor Types \ MRI Sequences  | T1-weighted | T2-weighted | Segmentation |
 | :---: | :---: | :---: | :---: | 
 | Oligodendroglioma  | 0.81519  | 23.1904  | 5.56554  |
-| Oligoastrocytoma  | ![](images/Oligoastrocytoma-t1.png =100x100)  | ![](images/Oligoastrocytoma-t2.png =100x100)  | ![](images/Oligoastrocytoma-seg.png =100x100)
+| Oligoastrocytoma  | ![](images/Oligoastrocytoma-t1.png =100x100)  | ![](images/Oligoastrocytoma-t2.png =100x100)  | ![](images/Oligoastrocytoma-seg.png =100x100)  |
 | Astrocytoma  | 0.89553  | 1.73205 | 3.16228  |
 
 
