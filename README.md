@@ -37,5 +37,12 @@ The basic data augmentation methods listed below were used:
 | Oligoastrocytoma  | ![](images/Oligoastrocytoma-t1.jpg)  | ![](images/Oligoastrocytoma-t2.jpg)  | ![](images/Oligoastrocytoma-seg.jpg)  |
 | Astrocytoma  | 0.89553  | 1.73205 | 3.16228  |
 
+
+.             |  .
+:-------------------------:|:-------------------------:
+![](images/1.png)  |  ![](images/2.png)
+![](images/3.png)  |  ![](images/4.png)
+![](images/5.png)  |  ![](images/6.png)
+
 ### References 
 [Original Paper](https://arxiv.org/abs/2005.09007v3)
