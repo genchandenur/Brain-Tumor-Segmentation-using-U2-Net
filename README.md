@@ -19,14 +19,6 @@ For a detailed information about the dataset please refer to this [site](https:/
 
 ![](images/dataset-images.png)
 
-
-| Tumor Types \ MRI Sequences  | T1-weighted | T2-weighted | Segmentation |
-| :---: | :---: | :---: | :---: | 
-| Oligodendroglioma  | 0.81519  | 23.1904  | 5.56554  |
-| Oligoastrocytoma  | ![](images/Oligoastrocytoma-t1.jpg)  | ![](images/Oligoastrocytoma-t2.jpg)  | ![](images/Oligoastrocytoma-seg.jpg)  |
-| Astrocytoma  | 0.89553  | 1.73205 | 3.16228  |
-
-
 ### Pre-processing
 
 The basic data augmentation methods listed below were used:
@@ -36,6 +28,14 @@ The basic data augmentation methods listed below were used:
 ### Model Architecture
 
 ![Model Architecture](images/model_architecture.png)
+
+### Results
+
+| Tumor Types \ MRI Sequences  | T1-weighted | T2-weighted | Segmentation |
+| :---: | :---: | :---: | :---: | 
+| Oligodendroglioma  | 0.81519  | 23.1904  | 5.56554  |
+| Oligoastrocytoma  | ![](images/Oligoastrocytoma-t1.jpg)  | ![](images/Oligoastrocytoma-t2.jpg)  | ![](images/Oligoastrocytoma-seg.jpg)  |
+| Astrocytoma  | 0.89553  | 1.73205 | 3.16228  |
 
 ### References 
 [Original Paper](https://arxiv.org/abs/2005.09007v3)
