@@ -27,7 +27,7 @@ The basic data augmentation methods listed below were used:
 
 ### Model Architecture
 
-Model architecture is shown in the figure below 
+Model architecture is shown in the figure below. 
 ![Model Architecture](images/model_architecture.png)
 
 ### Results
