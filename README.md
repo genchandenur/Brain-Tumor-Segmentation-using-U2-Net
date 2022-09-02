@@ -1,5 +1,16 @@
 # Brain-Tumor-Segmentation-using-U2-Net
 
+ "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ashishpatel26/SRCNN_Step_by_Step/blob/main/SRCNN_v2.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    }
 
 
 ## Overview
