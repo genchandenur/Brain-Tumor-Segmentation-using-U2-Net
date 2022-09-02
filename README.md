@@ -1,6 +1,25 @@
 # Brain-Tumor-Segmentation-using-U2-Net
-
- "cells": [
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "SRCNN_v2.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyMwQURhO28OBA1vjQPJnOZh",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    },
+    "accelerator": "GPU"
+  },
+  "cells": [
     {
       "cell_type": "markdown",
       "metadata": {
@@ -10,9 +29,12 @@
       "source": [
         "<a href=\"https://colab.research.google.com/github/ashishpatel26/SRCNN_Step_by_Step/blob/main/SRCNN_v2.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
-    }
-
-
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "dTnFXnZJKPkF"
+      },
 ## Overview
 - [Dataset](#Dataset)
 - [Pre-processing](#Pre-processing)
