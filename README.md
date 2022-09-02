@@ -29,12 +29,8 @@
       "source": [
         "<a href=\"https://colab.research.google.com/github/ashishpatel26/SRCNN_Step_by_Step/blob/main/SRCNN_v2.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
-    },
-    {
-      "cell_type": "code",
-      "metadata": {
-        "id": "dTnFXnZJKPkF"
-      },
+    }
+    
 ## Overview
 - [Dataset](#Dataset)
 - [Pre-processing](#Pre-processing)
