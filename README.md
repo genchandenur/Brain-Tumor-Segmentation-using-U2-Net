@@ -1,6 +1,6 @@
 # Brain-Tumor-Segmentation-using-U2-Net
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xGxu5P-SwGk-UCo9lBJ-AxQaSPxHHp4n)
     
 ## Overview
 - [Dataset](#Dataset)
