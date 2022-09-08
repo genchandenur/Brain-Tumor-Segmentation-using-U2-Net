@@ -1,6 +1,6 @@
 # Brain-Tumor-Segmentation-using-U2-Net
 <p>
-<h1 align="center">U<sup>2</sup>-Net: U Square Net</h1>
+<h1 align="center">Brain Tumor-Segmentation using U<sup>2</sup>-Net: U Square Net</h1>
 
     
 </p>
