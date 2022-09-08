@@ -1,6 +1,5 @@
-# Brain-Tumor-Segmentation-using-U2-Net
 <p>
-<h1 align="center">Brain Tumor-Segmentation using U<sup>2</sup></h1>
+<h1 align="center">Brain Tumor-Segmentation using U<sup>2</sup>Net</h1>
 
     
 </p>
