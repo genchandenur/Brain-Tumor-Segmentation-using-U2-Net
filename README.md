@@ -1,4 +1,10 @@
 # Brain-Tumor-Segmentation-using-U2-Net
+<p>
+<h1 align="center">U<sup>2</sup>-Net: U Square Net</h1>
+
+    
+</p>
+
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xGxu5P-SwGk-UCo9lBJ-AxQaSPxHHp4n)
     
