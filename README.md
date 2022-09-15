@@ -22,7 +22,7 @@ The dataset used in this project was provided from the public collections of the
 
 For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/display/Public/LGG-1p19qDeletion).
 
-2. This dataset contains skull-stripped and co-registered multimodal (i.e. T1, T1-Gd, T2, T2-FLAIR) magnetic resonance imaging (MRI) volumes and both computer-aided and manually-corrected segmentation labels in NIfTI format for each of the 65 subjects. 
+2. This dataset contains skull-stripped and co-registered multimodal (i.e. T1, T1-Gd, T2, T2-FLAIR) magnetic resonance imaging (MRI) volumes and both computer-aided and manually-corrected segmentation labels in NIfTI format for each of the 65 subjects. T1-weighted and T2-weighted MRI were included in this study.
 
 For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=24282668#24282668197861a846e445a795694ff2a50eb66c).
 
