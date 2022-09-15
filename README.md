@@ -41,6 +41,8 @@ Model architecture is shown in the figure below.
 
 ### Results
 
+Download pre-trained U2NET models: [u2net.h5](https://drive.google.com/file/d/1fMtz5qBZ22nYv1E_6gymT4uMNK7L3qDO/view?usp=sharing)
+
 | Tumor Types \ MRI Sequences  | T1-weighted | T2-weighted | Segmentation |
 | :---: | :---: | :---: | :---: | 
 | Oligodendroglioma  | 0.81519  | 23.1904  | 5.56554  |
