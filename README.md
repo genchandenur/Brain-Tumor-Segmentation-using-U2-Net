@@ -41,9 +41,7 @@ Model architecture is shown in the figure below.
 
 ### Training Process
 
-![](images/epoch_dice_loss.PNG | width=100)
-
-![](images/epoch_loss.PNG)
+![](images/epoch_dice_loss.PNG)                ![](images/epoch_loss.PNG)
 
 ![](images/evaluation_dice_loss_vs_iterations.PNG)
 
