@@ -42,7 +42,7 @@ Model architecture is shown in the figure below.
 ### Results
 
 - Download pre-trained U2NET models: [u2net.h5](https://drive.google.com/file/d/1fMtz5qBZ22nYv1E_6gymT4uMNK7L3qDO/view?usp=sharing)
-- Download pre-trained U2NETP models: [u2netp.h5]()
+- Download pre-trained U2NETP models: [u2netp.h5](https://drive.google.com/file/d/1NiXnHvNB-rtdDx7tkjyhJiYtcJ33Mzx1/view?usp=sharing)
 
 | Tumor Types \ MRI Sequences  | T1-weighted | T2-weighted | Segmentation |
 | :---: | :---: | :---: | :---: | 
