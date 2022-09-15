@@ -41,6 +41,7 @@ Model architecture is shown in the figure below.
 
 ### Training Process
 
+The graphs show epoch-dice loss (left) and epoch-loss (right) over 100 epochs are given below for train (blue) and validation (red).
 ![](images/epoch_dice_loss.PNG)               ![](images/epoch_loss.PNG)
 
 ![](images/evaluation_dice_loss_vs_iterations.PNG)               ![](images/evaluation_loss_vs_iterations.PNG)
