@@ -39,6 +39,16 @@ The basic data augmentation methods listed below were used:
 Model architecture is shown in the figure below. 
 ![Model Architecture](images/model_architecture.png)
 
+### Training Process
+
+![](images/epoch_dice_loss.PNG)
+
+![](images/epoch_loss.PNG)
+
+![](images/evaluation_dice_loss_vs_iterations.PNG)
+
+![](images/evaluation_loss_vs_iterations.PNG)
+
 ### Results
 Training took about 1 hour with U2NETP architecture.
 
