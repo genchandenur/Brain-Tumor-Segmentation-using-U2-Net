@@ -46,7 +46,7 @@ The model was trained on Tesla P100 GPU offered by Google Colab Pro. Training to
 The graphs show epoch-dice loss (left) and epoch-loss (right) over 100 epochs are given below for train (blue) and validation (red).
 ![](images/epoch_dice_loss.PNG)               ![](images/epoch_loss.PNG)
 
-![](images/evaluation_dice_loss_vs_iterations.PNG)               ![](images/evaluation_loss_vs_iterations.PNG)
+<img src="images/evaluation_dice_loss_vs_iterations.PNG" width="48">               ![](images/evaluation_loss_vs_iterations.PNG)
 
 #### Metrics
 To quantify the performance of our image segmentation, **Dice Score** is used. The algorithm is validated by calculating the Dice score, which is a measure of how similar the objects are. So it is the size of the overlap of the two segmentations divided by the total size of the two objects. That is, the score for a particular class c is the size of the overlap between the predicted region and its true counterpart. 
