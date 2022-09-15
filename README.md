@@ -41,7 +41,7 @@ Model architecture is shown in the figure below.
 
 ### Training Process
 
-![](images/epoch_dice_loss.PNG)
+![](images/epoch_dice_loss.PNG | width=100)
 
 ![](images/epoch_loss.PNG)
 
@@ -71,5 +71,6 @@ Training took about 1 hour with U2NETP architecture.
 ![](images/9.png)  |  ![](images/10.png)
 ![](images/11.png)  |  ![](images/12.png)
 ![](images/13.png)  |  ![](images/14.png)
+
 ### References 
 [Original Paper](https://arxiv.org/abs/2005.09007v3)
