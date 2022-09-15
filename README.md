@@ -48,6 +48,8 @@ The graphs show epoch-dice loss (left) and epoch-loss (right) over 100 epochs ar
 
 ![](images/evaluation_dice_loss_vs_iterations.PNG)               ![](images/evaluation_loss_vs_iterations.PNG)
 
+#### Metrics
+
 ### Results
 Training took about 1 hour with U2NETP architecture.
 
