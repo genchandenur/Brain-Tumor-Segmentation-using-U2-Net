@@ -44,6 +44,7 @@ Model architecture is shown in the figure below.
 The model was trained on Tesla P100 GPU offered by Google Colab Pro. Training took about 1 hour with **U2NETP** architecture and about 1 hour 30 minutes for **U2NET** architecture. 
 
 The graphs show epoch-dice loss (left) and epoch-loss (right) over 100 epochs are given below for train (blue) and validation (red).
+
 ![](images/epoch_dice_loss.PNG)               ![](images/epoch_loss.PNG)
 
 <img src="images/evaluation_dice_loss_vs_iterations.PNG" width="10">               ![](images/evaluation_loss_vs_iterations.PNG)
