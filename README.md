@@ -30,7 +30,7 @@ For a detailed information about the dataset please refer to this [site](https:/
 
 ### Pre-processing
 
-After the dataset split from training and testing data, the data augmentation methods apply only training set. The basic data augmentation methods listed below were used:
+The basic data augmentation methods listed below were used:
 - [Horizontally Flip](https://docs.opencv.org/3.4/d2/de8/group__core__array.html#gaca7be533e3dac7feb70fc60635adf441)
 - [Vertically Flip](https://docs.opencv.org/3.4/d2/de8/group__core__array.html#gaca7be533e3dac7feb70fc60635adf441)
 
