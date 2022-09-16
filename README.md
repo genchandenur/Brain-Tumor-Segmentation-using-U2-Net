@@ -9,7 +9,7 @@
     
 ## Overview
 - [Dataset](#Dataset)
-- [Pre-processing](#Pre-processing)
+- [Data Augmentation](#Data Augmentation)
 - [Model Architecture](#Model-Architecture)
 - [Training Process](#Training-Process)
 - [Results](#Results)
@@ -28,7 +28,7 @@ For a detailed information about the dataset please refer to this [site](https:/
 
 ![](images/dataset-images.png)
 
-### Pre-processing
+### Data Augmentation
 
 The basic data augmentation methods listed below were used:
 - [Horizontally Flip](https://docs.opencv.org/3.4/d2/de8/group__core__array.html#gaca7be533e3dac7feb70fc60635adf441)
