@@ -9,7 +9,7 @@
     
 ## Overview
 - [Dataset](#Dataset)
-- [Data Augmentation](#Data Augmentation)
+- [Data Augmentation](#Data-Augmentation)
 - [Model Architecture](#Model-Architecture)
 - [Training Process](#Training-Process)
 - [Results](#Results)
