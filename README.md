@@ -30,7 +30,9 @@ For a detailed information about the dataset please refer to this [site](https:/
 
 For a detailed information about the dataset please refer to this [site](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=24282668#24282668197861a846e445a795694ff2a50eb66c).
 
-![](images/dataset-images.png)
+<p align="center">
+<img src="images/dataset-images.png" height="70" />
+</p>
 
 ### Data Augmentation
 
