@@ -6,6 +6,8 @@
 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xGxu5P-SwGk-UCo9lBJ-AxQaSPxHHp4n)
+
+The rate of people suffering from cancer is increasing day by day. Manual segmentation of brain tumors for cancer diagnosis from large volumes of MRI images generated in the clinical routine is a specialized, difficult and time-consuming task. Therefore, manual tumor segmentation is often fraught with intra- and inter-rater variability, resulting in imprecise boundary delimitation. Automated brain tumor image segmentation is needed.
     
 ## Overview
 - [Dataset](#Dataset)
