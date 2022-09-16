@@ -53,6 +53,8 @@ The graphs show epoch-dice loss (left) and epoch-loss (right) over 100 epochs ar
 
 ![](images/epoch_dice_loss.PNG)               ![](images/epoch_loss.PNG)
 
+The graphs show evaluation dice loss (left) per iteration and loss per iteration (right) over 100 epochs are given below for train (blue) and validation (red).
+
 ![](images/evaluation_dice_loss_vs_iterations.PNG)               ![](images/evaluation_loss_vs_iterations.PNG)
 
 #### Metrics
