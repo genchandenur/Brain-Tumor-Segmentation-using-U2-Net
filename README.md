@@ -72,13 +72,6 @@ Some of the results are as follows.
 - Download pre-trained U2NET models: [u2net.h5](https://drive.google.com/file/d/1fMtz5qBZ22nYv1E_6gymT4uMNK7L3qDO/view?usp=sharing)
 - Download pre-trained U2NETP models: [u2netp.h5](https://drive.google.com/file/d/1NiXnHvNB-rtdDx7tkjyhJiYtcJ33Mzx1/view?usp=sharing)
 
-| Tumor Types \ MRI Sequences  | T1-weighted | T2-weighted | Segmentation |
-| :---: | :---: | :---: | :---: | 
-| Oligodendroglioma  | 0.81519  | 23.1904  | 5.56554  |
-| Oligoastrocytoma  | ![](images/Oligoastrocytoma-t1.jpg)  | ![](images/Oligoastrocytoma-t2.jpg)  | ![](images/Oligoastrocytoma-seg.jpg)  |
-| Astrocytoma  | 0.89553  | 1.73205 | 3.16228  |
-
-
 .             |  .
 :-------------------------:|:-------------------------:
 ![](images/1.png)  |  ![](images/2.png)
