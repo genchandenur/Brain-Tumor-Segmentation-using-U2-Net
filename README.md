@@ -57,7 +57,7 @@ To quantify the performance of our image segmentation, **Dice Score** is used. T
 
 
 <p align="center">
-<img src="images/dice-score-formula.png" height="100" />
+<img src="images/dice-score-formula.png" height="70" />
 </p>
 
 
