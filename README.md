@@ -59,7 +59,7 @@ To quantify the performance of our image segmentation, **Dice Score** is used. T
 
 
 ### Results
-Training took about 1 hour with U2NETP architecture.
+Some of the results are as follows.
 
 - Download pre-trained U2NET models: [u2net.h5](https://drive.google.com/file/d/1fMtz5qBZ22nYv1E_6gymT4uMNK7L3qDO/view?usp=sharing)
 - Download pre-trained U2NETP models: [u2netp.h5](https://drive.google.com/file/d/1NiXnHvNB-rtdDx7tkjyhJiYtcJ33Mzx1/view?usp=sharing)
