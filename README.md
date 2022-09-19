@@ -82,4 +82,4 @@ Some of the results are as follows.
 ![](images/13.png)  |  ![](images/14.png)
 
 ### References 
-[U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/abs/2005.09007v3)
+[U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007v3.pdf)
