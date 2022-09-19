@@ -17,7 +17,6 @@
 - [Model Architecture](#Model-Architecture)
 - [Training Process](#Training-Process)
 - [Results](#Results)
-- [Usage](#Usage)
 - [References](#References)
 
 ### Dataset
