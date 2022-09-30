@@ -83,4 +83,4 @@ Some of the results are as follows.
 
 ### References 
 - [U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007v3.pdf)
-- https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation
+- https://github.com/xuebinqin/U-2-Net
